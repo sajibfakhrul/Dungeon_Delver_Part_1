@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game_Development\\Dungeon_Delver_Part-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|d:\\game_development\\dungeon_delver_part-1\\assets\\__scripts\\camfollowdray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\camfollowdray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|D:\\Game_Development\\Dungeon_Delver_Part-1\\assets\\__scripts\\skeletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\skeletos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|D:\\Game_Development\\Dungeon_Delver_Part-1\\assets\\__scripts\\ifacingmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\ifacingmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|D:\\Game_Development\\Dungeon_Delver_Part-1\\assets\\__scripts\\gridmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\gridmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|d:\\game_development\\dungeon_delver_part-1\\assets\\__scripts\\dray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\dray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|D:\\Game_Development\\Dungeon_Delver_Part-1\\assets\\__scripts\\inroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\inroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|D:\\Game_Development\\Dungeon_Delver_Part-1\\assets\\__scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|D:\\Game_Development\\Dungeon_Delver_Part-1\\assets\\__scripts\\tilemapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\tilemapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|D:\\Game_Development\\Dungeon_Delver_Part-1\\assets\\__scripts\\mapinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\mapinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|D:\\Game_Development\\Dungeon_Delver_Part-1\\assets\\__scripts\\swordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C356F074-39D1-66E8-BDE9-BDEEA0C8D0D9}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\swordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CamFollowDray.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\CamFollowDray.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\CamFollowDray.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\CamFollowDray.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\CamFollowDray.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:39:56.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GridMove.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\GridMove.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\GridMove.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\GridMove.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\GridMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:53:37.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFacingMover.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\IFacingMover.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\IFacingMover.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\IFacingMover.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\IFacingMover.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:19:24.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skeletos.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\Skeletos.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Skeletos.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\Skeletos.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Skeletos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:24:15.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Enemy.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:12:40.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InRoom.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\InRoom.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\InRoom.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\InRoom.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\InRoom.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:40:26.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwordController.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\SwordController.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\SwordController.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\SwordController.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\SwordController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:59:15.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dray.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\Dray.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Dray.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\Dray.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Dray.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:22:51.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TilemapManager.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\TilemapManager.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\TilemapManager.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\TilemapManager.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\TilemapManager.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAswHsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:06:37.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapInfo.cs",
+              "DocumentMoniker": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\MapInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\MapInfo.cs",
+              "ToolTip": "D:\\Game_Development\\Dungeon_Delver_Part-1\\Assets\\__Scripts\\MapInfo.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\MapInfo.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswBgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:01:58.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
